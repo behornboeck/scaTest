@@ -9,7 +9,7 @@ avatar:                          # Empty for no avatar in navbar
 favicon:                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Cybersecurity Research Group @ AAU  # Change Blog header text
+header_text: Cybersecurity Research Group @ AAU   # Change Blog header text
 header_feature_image: assets/img/aau-wide.jpeg
 footer_text:  
 
