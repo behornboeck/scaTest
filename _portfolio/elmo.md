@@ -3,7 +3,7 @@ layout: post
 title: ELMO
 feature-img: "assets/img/portfolio/elmo.png"
 img: "assets/img/portfolio/elmo.png"
-date: 01 January 2017
+date: 01 January 2020
 tags:
 ---
 ELMO is our first go at a statistical leakage simulator for the ARM M0 family, a 
