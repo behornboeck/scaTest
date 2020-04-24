@@ -1,0 +1,24 @@
+- name: Arnab Roy
+  pic: ArnabRoy
+  position: Lecturer
+  url: https://scholar.google.com/citations?user=1y6FMuYAAAAJ&hl=en
+
+- name: Si Gao
+  pic: SiGao
+  position: RA
+  url: https://dblp.uni-trier.de/pers/hd/g/Gao:Si
+
+- name: Clement Amiri
+  pic:
+  position: PhD student
+  url:
+
+- name: Hannes Boschitz
+  pic:
+  position: PA to Elisabeth
+  url:
+
+- name: Bernd Hornboeck
+  pic:
+  position: Technician
+  url:
