@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://sca-research.github.io"
+url: "https://behornboeck.github.io/scaTest"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Cybersecurity                                    # site's title
